@@ -1,1 +1,1 @@
-alert("Men Sondre og Sindre sammen er enda bedre");
+alert("Men Sondre er enda bedre");
